@@ -1,0 +1,2 @@
+# alice
+python fundamentals 
